@@ -1,6 +1,7 @@
 {
   "name": "snipcart-angular-sanity",
   "version": "0.0.0",
+  "homepage": "http://naughty-roentgen-a95f0d.netlify.com",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
