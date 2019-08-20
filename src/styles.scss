@@ -1,1 +1,20 @@
 /* You can add global styles to this file, and also import other style files */
+@import
+// tools */
+'./scss/tools/mixins',
+'./scss/tools/colors',
+'./scss/tools/easings',
+'./scss/tools/functions',
+'./scss/tools/mediaqueries',
+// base */
+'./scss/base/reset',
+'./scss/base/fonts',
+'./scss/base/body',
+'./scss/base/icon',
+// blocks */
+'./scss/site/pace',
+'./scss/site/button',
+'./scss/site/nav',
+'./scss/site/catalog',
+'./scss/site/product',
+'./scss/site/footer'
